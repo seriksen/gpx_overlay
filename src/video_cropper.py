@@ -2,7 +2,7 @@
 import streamlit as st
 import moviepy.editor as mp
 import os
-import video_utils
+from . import video_utils
 
 def video_cropper():
     st.header("Video Cropper")
