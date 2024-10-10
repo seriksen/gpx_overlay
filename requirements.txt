@@ -1,0 +1,7 @@
+moviepy
+pillow
+gpxpy
+pandas
+plotly
+matplotlib
+scipy
