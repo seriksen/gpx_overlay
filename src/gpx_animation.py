@@ -1,6 +1,6 @@
 # gpx_handler.py
 import streamlit as st
-import gpx_utils
+from . import gpx_utils
 from datetime import timedelta
 import pandas as pd
 
